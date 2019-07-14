@@ -1,13 +1,13 @@
 {
   "main.css": "/socialapp/static/css/main.23f36082.chunk.css",
-  "main.js": "/socialapp/static/js/main.0a2bad52.chunk.js",
-  "main.js.map": "/socialapp/static/js/main.0a2bad52.chunk.js.map",
+  "main.js": "/socialapp/static/js/main.5749338c.chunk.js",
+  "main.js.map": "/socialapp/static/js/main.5749338c.chunk.js.map",
   "runtime~main.js": "/socialapp/static/js/runtime~main.9655fe6e.js",
   "runtime~main.js.map": "/socialapp/static/js/runtime~main.9655fe6e.js.map",
-  "static/js/2.3842f050.chunk.js": "/socialapp/static/js/2.3842f050.chunk.js",
-  "static/js/2.3842f050.chunk.js.map": "/socialapp/static/js/2.3842f050.chunk.js.map",
+  "static/js/2.870429bd.chunk.js": "/socialapp/static/js/2.870429bd.chunk.js",
+  "static/js/2.870429bd.chunk.js.map": "/socialapp/static/js/2.870429bd.chunk.js.map",
   "index.html": "/socialapp/index.html",
-  "precache-manifest.dcdc26a385e13b7cb0f4d7f61a39fe7c.js": "/socialapp/precache-manifest.dcdc26a385e13b7cb0f4d7f61a39fe7c.js",
+  "precache-manifest.a308fa8ae230252f652c1ecb90bf2148.js": "/socialapp/precache-manifest.a308fa8ae230252f652c1ecb90bf2148.js",
   "service-worker.js": "/socialapp/service-worker.js",
   "static/css/main.23f36082.chunk.css.map": "/socialapp/static/css/main.23f36082.chunk.css.map",
   "static/media/no-img.png": "/socialapp/static/media/no-img.6732bd42.png"
