@@ -1,6 +1,6 @@
 # Social App Client
 
-View the app: https://xeyal-i.github.io/socialapp
+View the app Demo: <a> https://xeyal-i.github.io/socialapp </a>
 
 Change FB 'proxy' value in package.json <br/>
 Install packages : run 'npm install' <br/>
